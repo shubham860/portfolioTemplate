@@ -3,12 +3,12 @@ import '../scss/Home.scss';
 
 const Section2 = () => {
     return (
-        <div className='section1'>
+        <div className='section2'>
             <div className="heads">
                 <div className="border"></div>
                 <div className="heading">
-                    <p className="main">About me</p>
-                    <p className="desc">PROFESSIONAL PATH</p>
+                    <p className="main">Work Experience</p>
+                    <p className="desc">PREVIOUS JOBS</p>
                 </div>
             </div>
             <div className="details">

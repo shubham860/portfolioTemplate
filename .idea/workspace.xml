@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dba8956-d1d1-4327-9365-1d7b81151126" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio/src/components/Section1.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/src/components/section2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/Section3.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/section2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/section2.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/src/scss/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/scss/Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/src/scss/Home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/scss/Home.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/src/scss/Home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/scss/Home.scss" afterDir="false" />
@@ -56,17 +52,37 @@
       <workItem from="1598009861989" duration="936000" />
       <workItem from="1598075640025" duration="373000" />
       <workItem from="1598078220043" duration="53000" />
-      <workItem from="1598112871640" duration="10970000" />
+      <workItem from="1598112871640" duration="12323000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1598131912962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598131912962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="283" y="44" key="CommitChangelistDialog2" timestamp="1598131899112">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="283" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598131899112" />
     <state x="372" y="235" key="EditFileWatcherDialog" timestamp="1598010839780">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="372" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1598010839780" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598131915238">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598131915238" />
   </component>
 </project>
