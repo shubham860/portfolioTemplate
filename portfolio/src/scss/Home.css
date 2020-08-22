@@ -1,3 +1,125 @@
+.homeContainer {
+  background-image: url("../images/background.jpg");
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.homeContainer .header {
+  position: relative;
+  border-radius: 5px;
+  background-color: #FFAD01;
+  padding: 30px 40px 20px;
+  margin: 0px 165px;
+  top: 30px;
+  display: grid;
+  grid-template-columns: 33% 33% 34%;
+  color: #fff;
+  font-size: 16px;
+}
+.homeContainer .header .address {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
+.homeContainer .header .address .iconDiv {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+.homeContainer .header .address .iconDiv .icons {
+  font-size: 25px;
+  font-weight: 300 !important;
+  display: grid;
+  align-items: center;
+  margin-top: -13px;
+}
+.homeContainer .header .address .details {
+  display: grid;
+  align-items: center;
+  justify-content: start;
+}
+.homeContainer .header .address .details p {
+  margin: 0;
+  margin-bottom: 7px;
+  text-align: left;
+}
+.homeContainer .intoCard {
+  display: grid;
+  justify-content: center;
+}
+.homeContainer .intoCard .card {
+  width: 750px;
+  background-color: white;
+  height: 400px;
+  margin-top: 200px;
+}
+.homeContainer .intoCard .card img {
+  border: none;
+  border-radius: 400px;
+  height: 200px;
+  margin-top: -95px;
+}
+.homeContainer .intoCard .card .info .name {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 15px 0 0 0;
+}
+.homeContainer .intoCard .card .info .post {
+  font-size: 1.3em;
+  color: #FFA600;
+  margin: 0;
+}
+.homeContainer .intoCard .card .otherDetails {
+  margin-top: 25px;
+}
+.homeContainer .intoCard .card .otherDetails p {
+  margin: 0 0 7px;
+}
+.homeContainer .intoCard .card .otherDetails p .heads {
+  margin: 0;
+  font-weight: 600;
+}
+.homeContainer .intoCard .card .social {
+  font-size: 23px;
+}
+.homeContainer .intoCard .card .social .icons {
+  margin: 30px 10px 0 !important;
+  cursor: pointer;
+}
 
+.section1 {
+  margin: 200px 165px;
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+.section1 .heads .border {
+  height: 10px;
+  background-color: #FFA804;
+  width: 50px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+.section1 .heads .heading p {
+  margin: 0;
+  text-align: left;
+}
+.section1 .heads .heading .main {
+  font-size: 1.8rem;
+  color: black;
+  font-weight: 600;
+}
+.section1 .heads .heading .desc {
+  font-size: 15px;
+  font-weight: 500;
+  text-align: left;
+  color: #999;
+}
+.section1 .details p {
+  line-height: 1.6;
+  font-size: 1.05em;
+  font-weight: 400;
+  color: #777;
+  text-align: left;
+}
 
 /*# sourceMappingURL=Home.css.map */
