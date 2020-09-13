@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dba8956-d1d1-4327-9365-1d7b81151126" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio/src/components/Section3.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/src/components/section2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/section2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Section3.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Section3.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/src/scss/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/scss/Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/src/scss/Home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/scss/Home.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/src/scss/Home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/scss/Home.scss" afterDir="false" />
@@ -38,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/build" />
       <recent name="$PROJECT_DIR$/portfolio/src/images" />
     </key>
   </component>
@@ -52,7 +51,12 @@
       <workItem from="1598009861989" duration="936000" />
       <workItem from="1598075640025" duration="373000" />
       <workItem from="1598078220043" duration="53000" />
-      <workItem from="1598112871640" duration="12323000" />
+      <workItem from="1598112871640" duration="12420000" />
+      <workItem from="1598133659136" duration="258000" />
+      <workItem from="1598165324327" duration="680000" />
+      <workItem from="1598182915923" duration="726000" />
+      <workItem from="1599898875485" duration="2402000" />
+      <workItem from="1600019506896" duration="2847000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1598131912962</created>
@@ -61,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598131912962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1598133538805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598133538805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,17 +83,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="44" key="CommitChangelistDialog2" timestamp="1598131899112">
+    <state x="283" y="44" key="CommitChangelistDialog2" timestamp="1598133538527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="283" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598131899112" />
+    <state x="283" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598133538527" />
     <state x="372" y="235" key="EditFileWatcherDialog" timestamp="1598010839780">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="372" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1598010839780" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598131915238">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598133553421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598131915238" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598133553421" />
   </component>
 </project>
