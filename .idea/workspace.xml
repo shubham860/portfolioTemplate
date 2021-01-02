@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dba8956-d1d1-4327-9365-1d7b81151126" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/portfolio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/.idea/portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/images/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Section3.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Section3.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +66,7 @@
       <workItem from="1600063876888" duration="157000" />
       <workItem from="1600066365272" duration="383000" />
       <workItem from="1600080369463" duration="1000" />
+      <workItem from="1609602127346" duration="561000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1598131912962</created>
@@ -82,17 +93,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="44" key="CommitChangelistDialog2" timestamp="1600066787957">
+    <state x="253" y="44" key="CommitChangelistDialog2" timestamp="1609602213423">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="283" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600066787957" />
-    <state x="372" y="235" key="EditFileWatcherDialog" timestamp="1598010839780">
+    <state x="253" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1609602213423" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609602691200">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="372" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1598010839780" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598133553421">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598133553421" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1609602691200" />
   </component>
 </project>

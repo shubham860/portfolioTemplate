@@ -20,7 +20,7 @@ const Section3 = () => {
                 <div className='rowOne'>
                     <div className='services'>
                         <div className='image'>
-                             <FileSearchOutlined className='icon'  />    
+                            <FileSearchOutlined className='icon'  />
                         </div>
 
                         <div>
