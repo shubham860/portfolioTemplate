@@ -7,12 +7,6 @@ const { Panel } = Collapse;
 
 const Section3 = () => {
 
-    const text = `
-  A dog is a type of domesticated animal.
-  Known for its loyalty and faithfulness,
-  it can be found as a welcome guest in many households across the world.
-`;
-
     return (
         <div className='section3'>
             <div className="heads">
@@ -26,16 +20,20 @@ const Section3 = () => {
                 <div className='rowOne'>
                     <div className='services'>
                         <div className='image'>
-                            <TeamOutlined className='icon' />
+                             <FileSearchOutlined className='icon'  />    
                         </div>
 
                         <div>
-                            <p className='head'>Company Registration</p>
+                            <p className='head'>Auditing and Assurance</p>
                             <ul className='desc'>
-                                <li>-	Limited Liability partnership     </li>
-                                <li>-	Private Limited Company           </li>
-                                <li>-	One Person Company                </li>
-                                <li>-	Unlimited company                 </li>
+                                <li>-	Statutory Audit     </li>
+                                <li>-	Internal Audit           </li>
+                                <li>-	Tax Audit               </li>
+                                <li>-	Systems Audit                 </li>
+                                <li>-	Management Audit    </li>
+                                <li>-	Agreed Upon Procedures         </li>
+                                <li>-	Certification Services            </li>
+                                <li>-	Special Audits                 </li>
                             </ul>
                         </div>
                     </div>
@@ -46,12 +44,19 @@ const Section3 = () => {
                         </div>
 
                         <div>
-                            <p className='head'>GST Registration</p>
+                            <p className='head'>Accounting Services</p>
                             <ul className='desc'>
-                                <li>-	Application of GST Registration   </li>
-                                <li>-	Composition Scheme                </li>
-                                <li>-	GST Return Filing                 </li>
-                                <li>-	E-Way Bill                        </li>
+                                <li>-	Book Keeping & Accounting   </li>
+                                <li>-	Bank Reconciliation               </li>
+                                <li>-	Invoicing                 </li>
+                                <li>-	Fixed Asset Management                      </li>
+                                <li>-	Inventory Management   </li>
+                                <li>-	TDS Management               </li>
+                                <li>-	Preparing and formatting Income Statement and Balance sheets on a regular basis                </li>
+                                <li>-	Preparing ageing reports and summaries                       </li>
+                                <li>-	Categorization of income and expenses   </li>
+                                <li>-	Partnership Accounting              </li>
+                                <li>-	Proprietorship Accounting               </li>
                             </ul>
                         </div>
                     </div>
@@ -62,33 +67,22 @@ const Section3 = () => {
                         </div>
 
                         <div>
-                            <p className='head'>Accounting & Bookkeeping</p>
+                            <p className='head'>Corporate and SEBI Compliances</p>
                             <ul className='desc'>
-                                <li>-	Preparing financial statements   </li>
-                                <li>-	Invoice processing services      </li>
-                                <li>-	Recording information            </li>
-                                <li>-	E-Accounting services            </li>
+                                <li>-	Companies and LLP Incorporation   </li>
+                                <li>-	Revival of Companies      </li>
+                                <li>-	Trademark Registration            </li>
+                                <li>-	Compliance of All companies including Listed Companies.            </li>
+                                <li>-	Restructuring of Companies (Amalgamation, Merger & Demerger)   </li>
+                                <li>-	Dematerialization of Shares       </li>
+                                <li>-	Other Secretarial Assignments including Legal Consultancy.            </li>
+                                <li>-	SME and Main Board IPO.            </li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
                 <div className='rowOne'>
-                    <div className='services'>
-                        <div className='image'>
-                            <FileSearchOutlined className='icon'  />
-                        </div>
-
-                        <div>
-                            <p className='head'>Auditing & Assurance</p>
-                            <ul className='desc'>
-                                <li>-	Statutory &amp; Tax Audit</li>
-                                <li>-	Compliance Audit</li>
-                                <li>-	Internal auditing</li>
-                                <li>-	Due diligence</li>
-                            </ul>
-                        </div>
-                    </div>
 
                     <div className='services'>
                         <div className='image'>
@@ -96,12 +90,13 @@ const Section3 = () => {
                         </div>
 
                         <div>
-                            <p className='head'>Import-Export Code</p>
+                            <p className='head'>Direct Tax Services</p>
                             <ul className='desc'>
-                                <li>-	Duplicate IEC Certificate</li>
-                                <li>-	New IEC Registration</li>
-                                <li>-	Modification of IEC</li>
-                                <li>-	Renewal of IEC</li>
+                                <li>-	Corporate Tax Matters</li>
+                                <li>-	Individual & Non-Resident Indian Tax Matters</li>
+                                <li>-	LLP, Partnership taxation</li>
+                                <li>-	Trust Taxation	</li>
+                                <li>-   TDS Return</li>
                             </ul>
                         </div>
                     </div>
@@ -112,12 +107,13 @@ const Section3 = () => {
                         </div>
 
                         <div>
-                            <p className='head'>Income Tax Return Filling</p>
+                            <p className='head'>Goods and services tax</p>
                             <ul className='desc'>
-                                <li>-Income tax consultancy</li>
-                                <li>-	Minimizing Income tax</li>
-                                <li>-	Tax &amp; compliance</li>
-                                <li>-	Income tax slab </li>
+                                <li>-   IGST Registration</li>
+                                <li>-	Amendments in Registration (Core Field/Non-Core Field)</li>
+                                <li>-	Monthly Return filing</li>
+                                <li>-	Annual Returns </li>
+                                <li>-	GST Audit</li>
                             </ul>
                         </div>
                     </div>
